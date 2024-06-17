@@ -1,0 +1,14 @@
+body{
+    background-color: lightskyblue;
+}
+
+#song_name{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+canvas{
+  border: 5px solidwhite;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px black;  
+}
